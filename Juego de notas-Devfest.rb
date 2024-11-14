@@ -1,5 +1,5 @@
 use_bpm 110  # Ajusta el tempo adecuado
-
+#Canción electrónica
 # Configuración de efectos de reverb para dar profundidad y resonancia
 with_fx :reverb, room: 0.9, mix: 0.5 do
   # Tema principal en piano
