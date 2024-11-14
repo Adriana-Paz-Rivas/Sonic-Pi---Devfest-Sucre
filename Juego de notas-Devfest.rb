@@ -1,4 +1,4 @@
-use_bpm 112  # Ajusta el tempo adecuado
+use_bpm 110  # Ajusta el tempo adecuado
 
 # Configuración de efectos de reverb para dar profundidad y resonancia
 with_fx :reverb, room: 0.9, mix: 0.5 do
